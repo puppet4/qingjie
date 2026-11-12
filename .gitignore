@@ -1,0 +1,5 @@
+/target/
+/.tools/
+/dist/
+*.png
+!/docs/*.png
